@@ -1,3 +1,4 @@
+
 // first step ya h k jo btn press kry wo disply bar my nzr aya
 function getNum(num){
     console.log(num)
